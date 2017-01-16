@@ -1,0 +1,24 @@
+body {
+  font-family: 'cabin', sans-serif;
+  background-color: #34495E;
+  color: #ECF0F1;
+  padding: 0px 30px;
+}
+
+p {
+  font-size: 14px;
+}
+
+p.intro {
+  font-size: 18px;
+  padding-bottom: 30px;
+}
+
+img.intro {
+  height: 400px;
+}
+
+ul {
+  line-height: 30px;
+  font-size: 14px;
+}
